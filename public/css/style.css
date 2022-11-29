@@ -8,17 +8,12 @@ body{
     width: 40%;
     margin: auto;
     margin-top: 10%;
+    border-radius: 2%;
 }
 
 #parfum {
     width: 50%;
     object-fit: cover;
     height: 100%;
-}
-
-#img {
-
-}
-
-#txt {
+    border-radius: 2% 0% 0% 2%;
 }
